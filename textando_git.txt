@@ -1,2 +1,9 @@
 Testando meu primeiro Repositório Git 
   17/10/2026
+a
+b
+c
+d
+e
+f
+g
