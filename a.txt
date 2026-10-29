@@ -5,3 +5,6 @@ Para
 O 
 Arquivo 
 "A"
+Enviando 
+a funcionalidade 
+X
