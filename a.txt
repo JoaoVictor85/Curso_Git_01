@@ -8,3 +8,4 @@ Arquivo
 Enviando 
 a funcionalidade 
 X
+Enviando a funcionalidade B
