@@ -6,3 +6,7 @@ h1 {
     font-size: 16px;
     color: gray;
 }
+
+table {
+    background-color:red;
+}
